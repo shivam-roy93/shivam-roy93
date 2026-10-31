@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **vediccoder7250@gmail.com** For Collaboration/Project or A
 - 🔭 **I’m currently working on:** OIL Progress Bridge – A digital platform for streamlined project progress tracking, reporting, and real-time updates.
 - 🌱 **I’m currently learning:**  Full Stack Development, Data Structures & Algorithms, Java, React.js and Backend Development.
 - 👯 **I’m looking to collaborate on:**  Innovative software projects, web applications, hackathons and open-source contributions
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:**  C++, Java, DSA, Web Development and Problem Solving
 - 📫 **How to reach me:** vediccoder7250@gmail.com
 - 😄 **Pronouns:**  Shivam Roy
